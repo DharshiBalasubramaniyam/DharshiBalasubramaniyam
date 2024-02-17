@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dharshi Balasubramaniyam.
-- 👀 I’m interested in both front-end and back-end technologies.
+- 👀 I’m primarily interested in full stack development.
 - ⭐️ I have knowledge in HTML, CSS, JavaScript, PHP, JAVA, MySql and React js.
 - 🌱 I’m currently learning Kotlin and Spring boot.
 
