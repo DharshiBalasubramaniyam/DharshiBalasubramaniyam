@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam" alt="dharshibalasubramaniyam" /></a> </p>
 
-- 🌱 I’m currently learning **React Js and Spring boot.**
+- 🌱 I’m passionate about pursuing opportunities in **Full stack, Backend, and Frontend development roles.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dharshibalasubramaniyam](https://github.com/dharshibalasubramaniyam)
 
 - 📝 I regularly write articles on [https://medium.com/@dharshib.8](https://medium.com/@dharshib.8)
 
-- 💬 Ask me about **Java, PHP and JavaScript.**
+- 💬 Ask me about **Java, PHP, JavaScript, Springboot and React js.**
 
 - 📫 How to reach me **dharshib.8@gmail.com**
 
