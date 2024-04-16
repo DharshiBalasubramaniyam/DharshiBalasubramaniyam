@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharshi Balasubramaniyam</h1>
+<h1 align="center"><marquee>Hi 👋, I'm Dharshi Balasubramaniyam</h1></marquee>
 <h3 align="center">A passionate Software Engineering undergraduate at University of Kelaniya, Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshibalasubramaniyam&label=Profile%20views&color=0e75b6&style=flat" alt="dharshibalasubramaniyam" /> </p>
