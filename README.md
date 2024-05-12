@@ -7,6 +7,8 @@
 
 - 🌱 I’m passionate about pursuing opportunities in **Full stack, Backend, and Frontend development roles.**
 
+- 💥 I am currently contributing for GSSOC'24, an exciting three-month voyage alongside the open-source community. 
+
 - 👨‍💻 All of my projects are available at [https://github.com/dharshibalasubramaniyam](https://github.com/dharshibalasubramaniyam)
 
 - 📝 I regularly write articles on [https://medium.com/@dharshib.8](https://medium.com/@dharshib.8)
