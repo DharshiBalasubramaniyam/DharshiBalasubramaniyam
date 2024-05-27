@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshibalasubramaniyam&label=Profile%20views&color=0e75b6&style=flat" alt="dharshibalasubramaniyam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam" alt="dharshibalasubramaniyam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=15&margin-h=15" alt="dharshibalasubramaniyam" /></a> </p>
 
 - 🌱 I’m passionate about pursuing opportunities in **Full stack, Backend, and Frontend development roles.**
 
