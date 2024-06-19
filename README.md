@@ -26,13 +26,13 @@ projects and maintaining a Top 50 rank.  </h4>
 <h3 align="center">Languages and Tools:</h3>
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,c,html,css,tailwind,js,react,nodejs,express,firebase,mysql" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,c,html,css,tailwind,js" height="70"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,git,postman" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb,git,postman,react,nodejs,express,firebase,mysql" height="70"/>
   </a>
 </p>
 
