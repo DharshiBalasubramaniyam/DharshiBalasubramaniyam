@@ -35,10 +35,10 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshibalasubramaniyam&show_icons=true&locale=en&layout=compact" alt="dharshibalasubramaniyam" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshibalasubramaniyam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dharshibalasubramaniyam" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&locale=en" alt="dharshibalasubramaniyam" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&locale=en&theme=transparent" alt="dharshibalasubramaniyam" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&" alt="dharshibalasubramaniyam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" /></p>
