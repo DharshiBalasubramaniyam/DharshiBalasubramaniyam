@@ -8,8 +8,8 @@
 
 <h4 align="center"> 🌱 I’m passionate about pursuing opportunities in Full stack, Backend, and Frontend development roles.</h4> 
 
-<h4 align="center"> 💥 I am currently contributing for GSSOC'24, and successfully merged 40+ pull requests across 15+ open-source
-projects and maintaining a Top 50 rank.  </h4> 
+<h4 align="center"> 💥 I am currently contributing for GSSOC'24, and successfully merged 50+ pull requests across 15+ open-source
+projects and maintaining a Top 25 rank.  </h4> 
 
 <h4 align="center"> 👨‍💻 All of my projects are available at <a href="https://github.com/dharshibalasubramaniyam">https://github.com/dharshibalasubramaniyam</a>. </h4> 
 
