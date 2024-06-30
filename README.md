@@ -17,6 +17,8 @@ projects and maintaining a Top 50 rank.  </h4>
 
 <h4 align="center"> 💬 Ask me about Java, PHP, JavaScript, Springboot and React js. </h4> 
 
+<h4 align="center"> 👨‍💻 I am currently learning GitHub actions, Docker and AWS. </h4> 
+
 <h4 align="center"> 📫 How to reach me <a href="mailto:dharshib.8@gmail.com">dharshib.8@gmail.com</a>. </h4> 
 
 <h4 align="center"> 📄 Know more about me: My portfolio <a href="https://my-portfolio-website-jade.vercel.app/">https://my-portfolio-website-jade.vercel.app/</a>. </h4> 
@@ -28,12 +30,12 @@ projects and maintaining a Top 50 rank.  </h4>
 <br/>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,c,html,css,tailwind,js" height="70"/>
+    <img src="https://skillicons.dev/icons?i=java,js,php,c,html,spring,react,nodejs,express,css,tailwind" height="70"/>
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb,git,postman,react,nodejs,express,firebase,mysql" height="70"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws" height="70"/>
   </a>
 </p>
 
