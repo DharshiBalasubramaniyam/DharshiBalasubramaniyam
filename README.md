@@ -21,7 +21,7 @@ projects and maintaining a Top 25 rank.  </h4>
 
 <h4 align="center"> 📫 How to reach me <a href="mailto:dharshib.8@gmail.com">dharshib.8@gmail.com</a>. </h4> 
 
-<h4 align="center"> 📄 Know more about me: My portfolio <a href="https://my-portfolio-website-jade.vercel.app/">https://my-portfolio-website-jade.vercel.app/</a>. </h4> 
+<h4 align="center"> 📄 Know more about me: My portfolio <a href="https://dharshi.vercel.app/">https://dharshi.vercel.app/</a>. </h4> 
 
 <h4 align="center"> 📫 Connect with me : My Linkedin profile <a href="https://www.linkedin.com/in/dharshi-balasubramaniyam-47b193243/">https://www.linkedin.com/in/dharshi-balasubramaniyam-47b193243/</a>. </h4> 
 <br/>
