@@ -30,12 +30,12 @@ projects and maintaining a Top 25 rank.  </h4>
 <br/>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,js,php,c,html,spring,react,nodejs,express,css,tailwind" height="70"/>
+    <img src="https://skillicons.dev/icons?i=java,js,php,c,html,spring,react,redux,nodejs,express,css"/>
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws" height="70"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws"/>
   </a>
 </p>
 
