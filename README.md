@@ -11,17 +11,17 @@
 </p>
 
 <hr>
+<details open>
+  <summary><h3>✨ About me</h3></summary>
+  <p> - I’m passionate about pursuing opportunities in Full stack development.</p> 
 
-<h3>✨ About me</h3><br>
-
-<p> - I’m passionate about pursuing opportunities in Full stack development.</p> 
-
-<p> - I am currently contributing for GSSOC'24, and successfully merged 60+ pull requests across 15+ open-source
+  <p> - I am currently contributing for GSSOC'24, and successfully merged 60+ pull requests across 15+ open-source
 projects and maintaining a Top 25 rank.  </p> 
 
-<p> - Ask me about Java, PHP, JavaScript, Springboot and React js. </p> 
+  <p> - Ask me about Java, PHP, JavaScript, Springboot and React js. </p> 
 
-<p> - I am currently learning GitHub actions, Docker and AWS. </p> 
+  <p> - I am currently learning GitHub actions, Docker and AWS. </p> 
+</details>
 
 <details>
   <summary><h3>✨ GitHub profile Trophies</h3></summary>
@@ -42,11 +42,17 @@ projects and maintaining a Top 25 rank.  </p>
 </p>
 </details>
 
-<h3>✨ GitHub Stats</h3><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshibalasubramaniyam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/> &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&locale=en&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/>
+<details open>
+  <summary><h3>✨ GitHub Stats</h3><br></summary>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshibalasubramaniyam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/> &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&locale=en&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/>
   
-</p>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/></p>
+
+</details>
+
+
+
