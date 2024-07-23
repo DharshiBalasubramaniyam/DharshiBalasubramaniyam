@@ -18,7 +18,7 @@
   <p> - I am currently contributing for GSSOC'24, and successfully merged 60+ pull requests across 15+ open-source
 projects and maintaining a Top 25 rank.  </p> 
 
-  <p> - Ask me about Java, PHP, JavaScript, Springboot and React js. </p> 
+  <p> - Ask me about Java, JavaScript, Springboot and React js. </p> 
 
   <p> - I am currently learning GitHub actions, Docker and AWS. </p> 
 </details>
