@@ -24,12 +24,7 @@ projects and maintaining a Top 25 rank.  </p>
 </details>
 
 <details>
-  <summary><h3>✨ GitHub profile Trophies</h3></summary>
-  <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
-</details>
-
-<details>
-  <summary><h3>✨Languages and Tools</h3></summary>
+  <summary><h3>✨ Languages and Tools</h3></summary>
  <p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,js,php,c,html,spring,react,redux,nodejs,express,css"/>
@@ -40,6 +35,27 @@ projects and maintaining a Top 25 rank.  </p>
     <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws"/>
   </a>
 </p>
+</details>
+
+<details>
+  <summary><h3>✨ GitHub profile Trophies</h3></summary>
+  <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
+</details>
+
+<details>	
+ <summary><h3>✨ GSSOC(24) Badges </h3></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" /> -->
+  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+</a>
+</div>
 </details>
 
 <details open>
