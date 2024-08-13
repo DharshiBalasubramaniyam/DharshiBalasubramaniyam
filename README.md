@@ -15,12 +15,9 @@
   <summary><h3>✨ About me</h3></summary>
   <p> - I’m passionate about pursuing opportunities in Full stack development.</p> 
 
-  <p> - I am currently contributing for GSSOC'24, and successfully merged 60+ pull requests across 15+ open-source
-projects and maintaining a Top 25 rank.  </p> 
-
   <p> - Ask me about Java, JavaScript, Springboot and React js. </p> 
 
-  <p> - I am currently learning GitHub actions, Docker and AWS. </p> 
+  <p> - I am proud to have ranked #19 in the GirlScript Summer of Code 2024 (GSSoC'24), where I contributed extensively by merging 99 pull requests and accumulating 2965 points.  </p> 
 </details>
 
 <details>
@@ -42,7 +39,7 @@ projects and maintaining a Top 25 rank.  </p>
   <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
 </details>
 
-<details>	
+<!-- <details>	
  <summary><h3>✨ GSSOC(24) Badges </h3></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -53,10 +50,10 @@ projects and maintaining a Top 25 rank.  </p>
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+  
 </a>
 </div>
-</details>
+</details>-->
 
 <details open>
   <summary><h3>✨ GitHub Stats</h3><br></summary>
