@@ -39,22 +39,6 @@
   <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
 </details>
 
-<!-- <details>	
- <summary><h3>✨ GSSOC(24) Badges </h3></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  
-</a>
-</div>
-</details>-->
-
 <details open>
   <summary><h3>✨ GitHub Stats</h3><br></summary>
   <p>
@@ -65,6 +49,16 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/></p>
 
+</details>
+
+<details open>
+  <summary><h3>✨ My Top Blogs</h3><br></summary>
+
+  <p>1. <a href="https://medium.com/@dharshib.8/getting-started-with-the-mern-stack-6b79d12626f0">Getting Started with the MERN Stack</a></p>  
+  <p>2. <a href="https://medium.com/javarevisited/getting-started-with-microservices-4266f440086f">Getting started with Microservices</a></p>  
+  <p>3. <a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Mastering Design Patterns in Java</a></p>  
+  <p>4. <a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">SOLID principles explained in JAVA</a></p>  
+  <p>5. <a href="https://medium.com/@dharshib.8/understanding-state-management-in-react-js-e19252c6fc12">Understanding State Management in React.js</a></p>  
 </details>
 
 
