@@ -17,7 +17,7 @@
 
   <p> - Ask me about Java, JavaScript, Springboot and React js. </p> 
 
-  <p> - I am proud to have ranked #19 in the GirlScript Summer of Code 2024 (GSSoC'24), where I contributed extensively by merging 99 pull requests and accumulating 2965 points.  </p> 
+  <p> - I am proud to have ranked #19 in the GirlScript Summer of Code 2024 (GSSoC'24), where I contributed extensively by merging 100 pull requests and accumulating 2965 points.  </p> 
 </details>
 
 <details>
