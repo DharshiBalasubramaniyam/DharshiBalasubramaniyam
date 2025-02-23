@@ -21,7 +21,7 @@
   <p> - I am proud to have ranked #19 in the GirlScript Summer of Code 2024 (GSSoC'24), where I contributed extensively by merging 100 pull requests and accumulating 2965 points.  </p> 
 </details>
 
-<details>
+<details open>
   <summary><h3>✨ Languages and Tools</h3></summary>
  <p>
   <a href="#">
@@ -35,7 +35,7 @@
 </p>
 </details>
 
-<details>
+<details open>
   <summary><h3>✨ GitHub profile Trophies</h3></summary>
   <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
 </details>
