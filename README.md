@@ -25,12 +25,12 @@
   <summary><h3>✨ Languages and Tools</h3></summary>
  <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,js,php,c,html,spring,react,redux,nodejs,express,css"/>
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,php,c,html,spring,react,redux,nodejs,express,css"/>
   </a>
 </p>
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws,vscode"/>
   </a>
 </p>
 </details>
