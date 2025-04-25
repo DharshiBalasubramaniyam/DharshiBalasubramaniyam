@@ -48,7 +48,7 @@
   
   </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/></p>
+  <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshibalasubramaniyam&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/></p>-->
 
 </details>
 
