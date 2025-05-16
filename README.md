@@ -16,7 +16,7 @@
   <summary><h3>✨ About me</h3></summary>
   <p> - I’m passionate about pursuing opportunities in Full stack development.</p> 
 
-  <p> - Ask me about Java, JavaScript, Springboot and React js. </p> 
+  <p> - Ask me about Java, Springboot, MERN stack, Docker, and K8s. </p> 
 
   <p> - I am proud to have ranked #19 in the GirlScript Summer of Code 2024 (GSSoC'24), where I contributed extensively by merging 100 pull requests and accumulating 2965 points.  </p> 
 </details>
