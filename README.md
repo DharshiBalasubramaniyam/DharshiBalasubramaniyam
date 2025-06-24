@@ -105,6 +105,46 @@
   </tbody>
 </table>
 
+<hr>
+<h3 align="center">Blogs</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://medium.com/javarevisited/oop-explained-in-java-9dd60fe6d71d">Mastering OOP concepts in JAVA</a>
+      </td>
+      <td>
+        <a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Mastering SOLID principles in JAVA</a>
+      </td>
+      <td>
+        <a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Mastering Design Patterns in JAVA</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://medium.com/@dharshib.8/understanding-state-management-in-react-js-e19252c6fc12">Mastering State Management in React.js</a>
+      </td>
+      <td>
+        <a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Building RESTful CRUD in Springboot</a>
+      </td>
+      <td>
+        <a href="https://medium.com/@dharshib.8/securing-spring-boot-applications-with-jwt-part-1-5bff0f56578e">Securing Springboot applications using JWT</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://medium.com/javarevisited/getting-started-with-microservices-4266f440086f">Getting Started with micro services in Springboot</a>
+      </td>
+      <td>
+        <a href="https://medium.com/@dharshib.8/getting-started-with-the-mern-stack-6b79d12626f0">Getting Started with MERN stack</a>
+      </td>
+      <td>
+        <a href="https://medium.com/@dharshib.8/getting-started-with-rag-by-building-a-qa-assistant-a72b9140b554">Getting started with RAG by building a QA assistant</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 <details open>
   <summary><h3>✨ About me</h3></summary>
