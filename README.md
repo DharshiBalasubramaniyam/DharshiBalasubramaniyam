@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://dharshi.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-hotpink?style=for-the-badge&logo=codecrafters"></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://dharshi.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=codecrafters"></a>  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dharshi-balasubramaniyam-47b193243/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@dharshib.8"><img alt="Static Badge" src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/dharshib"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a> &nbsp;&nbsp;&nbsp;
