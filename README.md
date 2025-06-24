@@ -25,12 +25,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,php,c,html,spring,react,redux,nodejs,express,css"/>
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,php,c,html,spring,react,redux,nodejs,express,css,tailwind"/>
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,aws,vscode"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,kubernetes,aws,vscode"/>
   </a>
 </p>
 
