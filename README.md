@@ -88,7 +88,7 @@
       <td>Python, Pinecone, LangChain, Gemini, Google Translate</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/notes-app-version-3" target="_blank">NoteNove</a></td>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/notes-app-version-3" target="_blank">NoteNova</a></td>
       <td>This is a notes app that allows you to manage notes and folders.</td>
       <td>React.js, Firebase</td>
     </tr>
