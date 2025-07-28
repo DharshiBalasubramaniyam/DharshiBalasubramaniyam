@@ -69,6 +69,11 @@
       <td>Spring Boot, React.js, MySQL</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/sl-civil-registration-rag" target="_blank">sl-civil-registration-rag</a></td>
+      <td>This tool is a multilingual QA that assists with information on registration of births, marriages, and deaths in Sri Lanka.</td>
+      <td>Python, Pinecone, LangChain, Gemini, Google Translate</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/uni-finder" target="_blank">Uni Finder</a></td>
       <td>This is a web-based application that helps A/L students in Sri Lanka to identify, filter, and download university degree programs they are eligible for, based on their Z-score, stream, subjects, and district. </td>
       <td>Next.js</td>
@@ -82,11 +87,6 @@
       <td><a href="https://github.com/DharshiBalasubramaniyam/Library-Management-System" target="_blank">Library Management System</a></td>
       <td>This is a library management system that stimulates basic functionalities of a library.</td>
       <td>HTML, PHP, MySQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/sl-civil-registration-rag" target="_blank">sl-civil-registration-rag</a></td>
-      <td>This tool is a multilingual QA that assists with information on registration of births, marriages, and deaths in Sri Lanka.</td>
-      <td>Python, Pinecone, LangChain, Gemini, Google Translate</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/notes-app-version-3" target="_blank">NoteNova</a></td>
