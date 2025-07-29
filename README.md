@@ -59,6 +59,11 @@
       <td>MERN, Redux, Docker, K8s</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/Springboot-CI-CD-Pipeline" target="_blank">Inventory app CI/CD pipeline</a></td>
+      <td>This project demonstrates a complete CI/CD pipeline for an inventory application, automates the build, test, Dockerization, and deployment processes.</td>
+      <td>Spring Boot, React.js, Docker, Github Actions, AWS</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-E-commerce-web-application" target="_blank">Purely</a></td>
       <td>This is an e-commerce web application that follows microservice architecture for the backend.</td>
       <td>Spring Boot, React.js, MongoDB, Microservices</td>
@@ -97,11 +102,6 @@
       <td><a href="https://github.com/DharshiBalasubramaniyam/Intelligent-process-automation" target="_blank">Intelligent Process Automation</a></td>
       <td>This is an implementation of an Intelligent Process Automation (IPA) use case, automating data extraction from paper form and feeding extracted data into the database, web application, and legacy desktop system — with zero human intervention.</td>
       <td>Ballerina</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/Springboot-CI-CD-Pipeline" target="_blank">Springboot CI/CD pipeline</a></td>
-      <td>This project demonstrates a complete CI/CD pipeline for a Spring Boot application, automates the build, test, Dockerization, and deployment processes.</td>
-      <td>Spring Boot, Docker, Github Actions, AWS ECS</td>
     </tr>
   </tbody>
 </table>
