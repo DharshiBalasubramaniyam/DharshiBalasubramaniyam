@@ -55,11 +55,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/mytodo" target="_blank">MyToDo</a></td>
-      <td>MyTodo is a full-stack ToDo application built using the MERN stack with a microservices architecture, Dockerized deployment, and Kubernetes orchestration.</td>
-      <td>MERN, Redux, Docker, K8s</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/Springboot-CI-CD-Pipeline" target="_blank">Inventory app CI/CD pipeline</a></td>
       <td>This project demonstrates a complete CI/CD pipeline for an inventory application, automates the build, test, Dockerization, and deployment processes.</td>
       <td>Spring Boot, React.js, Docker, Github Actions, AWS</td>
@@ -73,6 +68,11 @@
       <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-Expense-Tracker" target="_blank">MyWallet</a></td>
       <td>This is a full-stack expense tracking web application, facilitating seamless management of day-to-day finances.</td>
       <td>Spring Boot, React.js, MySQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/mytodo" target="_blank">MyToDo</a></td>
+      <td>MyTodo is a full-stack ToDo application built using the MERN stack with a microservices architecture, Dockerized deployment, and Kubernetes orchestration.</td>
+      <td>MERN, Redux, Docker, K8s</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/sl-civil-registration-rag" target="_blank">sl-civil-registration-rag</a></td>
