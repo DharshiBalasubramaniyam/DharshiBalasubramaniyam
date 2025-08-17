@@ -55,9 +55,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/Springboot-CI-CD-Pipeline" target="_blank">Inventory app CI/CD pipeline</a></td>
-      <td>This project demonstrates a complete CI/CD pipeline for an inventory application, automates the build, test, Dockerization, and deployment processes.</td>
-      <td>Spring Boot, React.js, Docker, Github Actions, AWS</td>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/cloud-inventory-app" target="_blank">Cloud Inventory App</a></td>
+      <td>A full-stack CRUD application built with React.js (Vite) frontend, Spring Boot backend, and MongoDB Atlas database. Containerized with Docker, stored in Amazon ECR, and deployed on AWS ECS Fargate with multi-AZ architecture, load balancing, secure VPC networking, and CI/CD via GitHub Actions.</td>
+      <td>Spring Boot, React.js, Docker, Github Actions, AWS ECS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-E-commerce-web-application" target="_blank">Purely</a></td>
