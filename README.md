@@ -55,14 +55,14 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-E-commerce-web-application" target="_blank">Purely</a></td>
+      <td>Purely is a cloud-first microservices e-commerce web application that leverages Spring Boot microservices, Spring Cloud Gateway, and Eureka Service Registry, with a React.js frontend and MongoDB databases, and is containerized and deployed to AWS Elastic Kubernetes Service (EKS) using Helm and automated via GitHub Actions CI/CD pipelines.</td>
+      <td>Spring Boot, React.js, MongoDB, Microservices, Docker, Helm, AWS, Github Actions</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/cloud-inventory-app" target="_blank">Cloud Inventory App</a></td>
       <td>A full-stack CRUD application built with React.js (Vite) frontend, Spring Boot backend, and MongoDB Atlas database. Containerized with Docker, stored in Amazon ECR, and deployed on AWS ECS Fargate with multi-AZ architecture, load balancing, secure VPC networking, and CI/CD via GitHub Actions.</td>
       <td>Spring Boot, React.js, Docker, Github Actions, AWS ECS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-E-commerce-web-application" target="_blank">Purely</a></td>
-      <td>This is an e-commerce web application that follows microservice architecture for the backend.</td>
-      <td>Spring Boot, React.js, MongoDB, Microservices</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DharshiBalasubramaniyam/Fullstack-Expense-Tracker" target="_blank">MyWallet</a></td>
