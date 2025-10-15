@@ -17,7 +17,7 @@
 
 <p align="center"> ✨ I am a final-year Software Engineering undergraduate at the University of Kelaniya, deeply passionate about the intricate world of full-stack development.</p> 
 <p align="center"> ✨ Throughout my academic journey, I have established a solid foundation in various technologies, including Java, JavaScript, Spring Boot, React.js, Node.js, Express.js, MongoDB, MySQL, Docker, K8s, and Git.</p> 
-<p align="center"> ✨ Through individual projects, open-source contributions, certifications, and participation in hackathons, I have developed a strong understanding of software development principles and best practices. </p>
+<p align="center"> ✨ Through individual projects, open-source contributions, certifications, and participation in hackathons and open-source programs, I have developed a strong understanding of software development principles and best practices. </p>
 <p align="center"> ✨ In addition to my technical expertise, I possess excellent communication and interpersonal skills, which I consider essential for effective collaboration and teamwork. </p>
 <p align="center"> ✨ I am a dedicated self-learner, committed to exerting my best effort in every endeavor, fueled by my insatiable curiosity.</p>
 
