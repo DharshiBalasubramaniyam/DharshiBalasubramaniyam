@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-
+<!-- 
 <hr>
 <h3 align="center">Languages and Tools</h3>
 
@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,mongodb,mysql,react,redux,githubactions,docker,kubernetes,aws"/>
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,kubernetes,aws,vscode"/>
   </a>
