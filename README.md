@@ -63,14 +63,15 @@
   </a>
 </p> -->
 
+<!--
 <hr>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshibalasubramaniyam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dharshibalasubramaniyam" height="155em"/> &nbsp;&nbsp; -->
-<!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=5&margin-h=5&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /> -->
+<!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=5&margin-h=5&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" />
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&theme=github_dark" alt="dharshibalasubramaniyam-github-stats" height="155em"/>
 </p>
-
+ -->
 <!---
 <hr>
 <h3 align="center">Projects</h3>
