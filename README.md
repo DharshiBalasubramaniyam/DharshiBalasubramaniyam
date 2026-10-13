@@ -12,14 +12,16 @@
   <a href="mailto:dharshib.8@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
-<hr>
-<h3 align="center">About me</h3>
-
+<!---
+<h3 align="center">About me</h3> -->
+<!---
 <p align="center"> ✨ I am a Software Engineer, deeply passionate about the intricate world of full-stack development.</p> 
 <p align="center"> ✨ Throughout my academic journey, I have established a solid foundation in various technologies, including Java, JavaScript, Spring Boot, React.js, Node.js, Express.js, MongoDB, MySQL, Docker, K8s, and Git.</p> 
 <p align="center"> ✨ Through individual projects, open-source contributions, certifications, and participation in hackathons and open-source programs, I have developed a strong understanding of software development principles and best practices. </p>
 <p align="center"> ✨ In addition to my technical expertise, I possess excellent communication and interpersonal skills, which I consider essential for effective collaboration and teamwork. </p>
 <p align="center"> ✨ I am a dedicated self-learner, committed to exerting my best effort in every endeavor, fueled by my insatiable curiosity.</p>
+-->
+
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
@@ -43,6 +45,7 @@
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dharshibalasubramaniyam&show_icons=true&theme=github_dark" alt="dharshibalasubramaniyam-github-stats" height="155em"/>
 </p>
 
+<!---
 <hr>
 <h3 align="center">Projects</h3>
 <table align="center">
@@ -146,6 +149,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 <!--
 <details open>
@@ -174,7 +178,8 @@
   <summary><h3>✨ GitHub profile Trophies</h3></summary>
   <p> <a href="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=dharshibalasubramaniyam&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="dharshibalasubramaniyam" /></a> </p>
 </details>
-
+-->
+<!---
 <details open>
   <summary><h3>✨ GitHub Stats</h3><br></summary>
   <p>
@@ -188,11 +193,12 @@
 </details>
 
 <details open>
-  <summary><h3>✨ My Top Blogs</h3><br></summary>
-
+  <summary><h3>✨ My Top Blogs</h3><br></summary> -->
+<!---
   <p>1. <a href="https://medium.com/@dharshib.8/getting-started-with-the-mern-stack-6b79d12626f0">Getting Started with the MERN Stack</a></p>  
   <p>2. <a href="https://medium.com/javarevisited/getting-started-with-microservices-4266f440086f">Getting started with Microservices</a></p>  
   <p>3. <a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Mastering Design Patterns in Java</a></p>  
   <p>4. <a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">SOLID principles explained in JAVA</a></p>  
   <p>5. <a href="https://medium.com/@dharshib.8/understanding-state-management-in-react-js-e19252c6fc12">Understanding State Management in React.js</a></p>  
 </details>
+-->
