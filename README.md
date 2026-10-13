@@ -1,6 +1,6 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&width=435&lines=Hi%F0%9F%91%8B!+I'm+Dharshi+Balasubramaniyam" alt="Typing SVG" /></a></h3>
 
-<h3 align="center">Software Engineer at <a href="https://www.wecrest.com/">WeCrest</a></h3>
+<h3 align="center">Software Engineer at <a href="https://www.wecrest.com/" target='_blank'>WeCrest</a></h3>
 <!-- <p align="center"><a href="https://user-badge.committers.top/sri_lanka_public/DharshiBalasubramaniyam"><img alt="Committers.top Badge" src="https://user-badge.committers.top/sri_lanka_public/DharshiBalasubramaniyam.svg"></a></p> -->
 
 <!-- [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/DharshiBalasubramaniyam.svg)](https://user-badge.committers.top/sri_lanka_public/DharshiBalasubramaniyam) -->
